@@ -29,8 +29,8 @@ const Projects = () => {
       category: "Website Development",
       tech: ["React", "Tailwind CSS", "Framer Motion"],
       links: {
-        demo: "#",
-        github: "#",
+        demo: "https://portfolio-liard-gamma-59.vercel.app/#contact",
+        github: "https://github.com/AKC07-Dev/Portfolio",
       },
     },
     {
